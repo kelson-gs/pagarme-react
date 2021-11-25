@@ -1,7 +1,23 @@
 # pagarme-react
  
 Estudo da API da [pagar.me](https://docs.pagar.me/reference) e testando suas funcionalidades em geral, incluíndo a visualização de uma dashboard ( Sem estlização de css, apenas React cru com fins didáticos para aprender a utilizar a api da pagarme )
+
 ***
+
+Dados para criação de transação por cartão
+<p>
+  <img src="/pagarme-react/transacao_criacao_pagarme_nodejs.png" width="300">
+</p>
+
+***
+
+Dados para criação de transação por boleto
+<p>
+  <img src="/pagarme-react/transacao_boleto_pagarme.jpg" width="300">
+</p>
+
+***
+
 **- Pasta back-end**:
 
  Dentro da pasta "back-end", encontra-se a pasta "config" contendo um arquivo JSON guardando keys para se utilizar na api, em ambiente de teste.
@@ -32,3 +48,4 @@ OBS: Todos as informações são criptografadas pela pagarme, a api fornece trat
 Não foi um projeto grande, mas um pequeno teste para aprender e fixar as informações obtidas pela documentação da pagarme. Todos os códigos existem alguns comentários para orientações, pois a sintaxe não possui uma boa organização de código.
 
 Respeitosamente, ao pessoal da pagarme e aos demais que acessarem meu repositório.
+
