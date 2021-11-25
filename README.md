@@ -15,6 +15,7 @@ Dados para criação de transação por boleto
 <p>
   <img src="/pagarme-react/transacao_boleto_pagarme.jpg" width="300">
 </p>
+Estão disponíveis outras fotos no repositório para auxiliar no estudo.
 
 ***
 
